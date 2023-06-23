@@ -1,9 +1,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4a223cc2-0931-4c5e-9b41-a770167a0dcd/deploy-status)](https://app.netlify.com/sites/shahzadhussain/deploys)
 
-# Ahmad Kokab Portfolio Website
+# Shahzad Hussain Portfolio Website
 
-This repository contains the code for Ahmad Kokab's personal portfolio website, available at [netlify-app.me](https://netlify-app.me/). The website showcases Ahmad's projects, skills, and experiences. The website is built using Gatsby.js and incorporates various web technologies.
+This repository contains the code for Shahzad Hussain's personal portfolio website, available at [netlify-app.me](https://netlify-app.me/). The website showcases Ahmad's projects, skills, and experiences. The website is built using Gatsby.js and incorporates various web technologies.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This repository contains the code for Ahmad Kokab's personal portfolio website, 
 
 ## Features
 
-- Display information about Ahmad Kokab, including skills, experiences, and education.
+- Display information about Shahzad Hussain, including skills, experiences, and education.
 - Showcase a collection of Ahmad's projects with descriptions and links.
 - Provide a contact form for visitors to get in touch with Ahmad.
 - Responsive design that adapts to different screen sizes and devices.
