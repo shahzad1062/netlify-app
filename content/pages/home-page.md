@@ -12,13 +12,18 @@ blocks:
       - hero:
           variant: default
           height: full
-          title: Start Building your website
-          content: Enable Identity and Git hub gateway in you app setting at netlify, then click button below to continue..
+          title: Hi i am
+          content: |-
+            # Shahzad Husain
+
+            #### I﻿ am **londa**
           buttons:
             - button:
                 variant: button
                 content: Get Started
-                url: /admin
+                url: /contact-me
+          hero_bg_photo:
+            hero_bg_image: /img/white_wood.jpg
     variant: default
     title: For Your Next Generation Website
 seo:
