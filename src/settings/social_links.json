@@ -2,31 +2,25 @@
   "social_links": [
     {
       "show_in_header": true,
-      "permalink": "https://www.facebook.com",
+      "permalink": "https://www.facebook.com/shahzad.shah.94",
       "platform": "facebook",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "https://www.twitter.com",
+      "permalink": "https://twitter.com/home",
       "platform": "twitter",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "https://www.linkedin.com",
+      "permalink": "https://www.linkedin.com/in/shahzad-hussain-279831ab",
       "platform": "linkedin",
       "show_in_footer": false
     },
     {
       "show_in_header": true,
-      "permalink": "https://www.youtube.com",
-      "platform": "youtube",
-      "show_in_footer": false
-    },
-    {
-      "show_in_header": true,
-      "permalink": "https://www.instagram.com",
+      "permalink": "https://www.instagram.com/shahzad.hussain322/?igshid=ZDc4ODBmNjlmNQ%3D%3D",
       "platform": "instagram",
       "show_in_footer": false
     },
