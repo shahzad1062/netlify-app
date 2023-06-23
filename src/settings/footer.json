@@ -11,13 +11,13 @@
       "type": "default"
     },
     {
-      "name": "Sponsored By",
-      "permalink": "/sponsored-by",
+      "name": "Contact me",
+      "permalink": "/contact-me",
       "type": "default"
     }
   ],
   "title": "Edge Base",
-  "content": "Your next generation website starter",
+  "content": "D﻿eveloper & Automation tester using [playwright](https://playwright.dev/)",
   "photo": {
     "image": "/img/edge-base-logo.png",
     "alt": "edge-base-logo"
